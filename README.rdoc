@@ -5,4 +5,4 @@ Redmine plugin. Adds following date formats with day names to settings:
 - %a., %d.%m.%Y
 - %A, %d.%m.%Y
 
-![Example with german locale](https://imgur.com/a/xiZPlyl)
+![Example with german locale]()
