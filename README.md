@@ -44,6 +44,11 @@ To do this, simply click on Administration at the top of your menu bar, then on 
 
 Once you have selected a new option, it should automacially be rendered upon ur new page-refresh(s).
 
+### Licenses
+
+These resources are under a Public Domain license (GNU General Public License v2.0) -unless otherwise stated-
+see Licenses for more information.
+
 ### About
 
-* Copyright (c) 2021-2022 bokos, original author.
+* Copyright (c) 2021-2022 bokos, original author. GNU General Public License v2.0
